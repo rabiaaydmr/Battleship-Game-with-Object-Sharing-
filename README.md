@@ -1,0 +1,2 @@
+# Battleship-Game-with-Object-Sharing-
+In this homework, you are asked to implement a simple board game using the object sharing concept of C++. The main function of the implementation, which includes the game implementation using classes, is given to you as well as the .exe file to try out the game. You are expected to write two classes: Board class and Player class. We are going to explain these classes in more details in the following sections. Before that, we start with a general description of the game.   
